@@ -1,1 +1,2 @@
-# theHammer
+# Geologist
+Geologist Project
